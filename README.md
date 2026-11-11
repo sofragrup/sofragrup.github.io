@@ -4,7 +4,7 @@
 
 ## Yayın bağlantısı
 
-https://1emrahbayram-creator.github.io/sofra-grup-ogretmeler-gunu/
+https://sofragrup.github.io/
 
 Sayfa açıldığında zarf kendiliğinden açılır ve kart görünür.
 
