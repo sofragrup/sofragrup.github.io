@@ -38,9 +38,9 @@ Yukarı kaydırma / yukarı ok bir adım geri götürür; sonda "Tekrar izle" d�
 
 ## Marka
 
-Final sahnesinde (ve klasik kartların altında) Sofra Grup | Compass Group logosu yer alır. Logo, kaynak görselin
-siyah zemininden ayrılıp şeffaf hale getirilmiştir; kurumsal renkler (altın `#C6AB72`,
-kurum grisi `#3B3B3B`) değiştirilmemiştir. HTML dosyaları kendi kendine yeter —
+Final sahnesinde (ve klasik kartların altında) Sofra Grup | Compass Group logosu yer alır. Kaynak, beyaz zeminli
+resmi logo dosyasıdır (siyah yazı, altın amblem); renkler değiştirilmeden sayfanın krem
+zeminine oturtulmuştur. `gorseller/sofra-compass-logo.png` aynı logonun şeffaf zeminli halidir. HTML dosyaları kendi kendine yeter —
 logo içlerine gömülüdür, internet bağlantısı olmadan da görünür.
 
 ## Not
