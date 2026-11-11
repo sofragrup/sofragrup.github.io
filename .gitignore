@@ -1,0 +1,5 @@
+# Kişisel veri içerir — yayınlanmaz
+ozel/
+*.zip
+
+.DS_Store
